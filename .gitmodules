@@ -1,0 +1,6 @@
+[submodule "pysd_sqlite"]
+	path = pysd_sqlite
+	url = https://github.com/lagamura/pysd_sqlite.git
+[submodule "pysims-frontend"]
+	path = pysims-frontend
+	url = https://github.com/lagamura/pysims-frontend
